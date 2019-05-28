@@ -1,3 +1,4 @@
+[![Build Status](https://msfttoyota.visualstudio.com/java/_apis/build/status/java?branchName=master)](https://msfttoyota.visualstudio.com/java/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
